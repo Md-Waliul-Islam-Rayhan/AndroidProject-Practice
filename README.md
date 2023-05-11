@@ -1,0 +1,10 @@
+# Android_Projects
+There is all Android Project![Screenshot_20230413_190641_Demo](https://user-images.githubusercontent.com/84919654/231771690-33467c15-c2e4-49f3-988a-39e0a27c90a0.jpg)
+![Screenshot_20230413_190708_Demo](https://user-images.githubusercontent.com/84919654/231771702-bd5a5c02-d6c2-4969-aeff-217a2c33261d.jpg)
+![Screenshot_20230413_190738_Highway Next](https://user-images.githubusercontent.com/84919654/231771711-4ed4f433-5811-496f-ba9d-1d2e5e9fa531.jpg)
+![Screenshot_20230413_190748_list](https://user-images.githubusercontent.com/84919654/231771723-6f79c1a5-adbd-4acf-bd6e-6c65de1ab298.jpg)
+![Screenshot_20230413_190802_Lottie](https://user-images.githubusercontent.com/84919654/231771735-e3d3ed48-abd6-4e3f-bbaa-aa0ecaa156db.jpg)
+![Screenshot_20230413_190821_Recyceler](https://user-images.githubusercontent.com/84919654/231771740-a71a258b-26ab-4875-a447-44bd36111920.jpg)
+![Screenshot_20230413_190826_Recyceler](https://user-images.githubusercontent.com/84919654/231771759-099e4053-1cd6-4b4d-89bf-88c9071e6bb6.jpg)
+![Screenshot_20230413_190838_Toolbar](https://user-images.githubusercontent.com/84919654/231771774-1126f686-03eb-40cc-bf65-f467ca182da1.jpg)
+![Screenshot_20230413_190843_TestApp](https://user-images.githubusercontent.com/84919654/231771779-f71d5639-7622-47d7-b4ed-1742b81766a2.jpg)

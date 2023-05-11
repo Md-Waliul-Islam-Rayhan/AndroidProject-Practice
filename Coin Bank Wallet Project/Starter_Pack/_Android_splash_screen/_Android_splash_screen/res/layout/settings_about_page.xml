@@ -1,0 +1,266 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		splash_screen
+	 *	@date 		Wednesday 10th of August 2022 03:40:25 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/settings_about_page" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_settings_about_page_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__settings_about_page_ek2"
+					android:background="@drawable/_bg__settings_about_page_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="640dp" />
+
+
+				<RelativeLayout android:id="@+id/mask_group_ek6"
+					android:layout_marginTop="3dp"
+					android:layout_marginStart="0dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout android:id="@+id/frame_1_ek6"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View   android:id="@+id/rectangle_1_ek6"
+							android:background="@drawable/rectangle_1_ek6_shape"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="360dp"
+							android:layout_height="640dp" />
+
+						<ImageView android:id="@+id/union_ek5"
+							android:src="@drawable/union_ek5"
+							android:contentDescription="union_ek5"
+							 android:layout_marginStart="-128dp"
+							android:layout_marginTop="591dp"
+							android:layout_width="722dp"
+							android:layout_height="49dp" />
+
+						<TextView android:id="@+id/settings_ek2"
+							android:fontFamily="Bw Helder DEMO"
+							android:textStyle="bold"
+							android:textSize="12sp"
+							android:textColor="@color/_bg__splash_screen_ek2_color"
+							android:layout_marginLeft="256dp"
+							android:layout_marginTop="620dp"
+							android:layout_width="68dp"
+							android:layout_height="22dp"
+							android:text="@string/settings_ek2_string"
+							 />
+
+
+						<RelativeLayout android:id="@+id/question_circle_1_ek5"
+							android:layout_marginTop="605dp"
+							android:layout_marginStart="169dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<ImageView android:id="@+id/vector_ek30"
+								android:src="@drawable/vector_ek30"
+								android:contentDescription="vector_ek30"
+								 android:layout_marginStart="1.83dp"
+								android:layout_marginTop="1.83dp"
+								android:layout_width="18.33dp"
+								android:layout_height="18.33dp" />
+
+						</RelativeLayout>
+
+						<ImageView android:id="@+id/rectangle_13_ek1"
+							android:src="@drawable/rectangle_13_ek1"
+							android:contentDescription="rectangle_13_ek1"
+							 android:layout_marginStart="91dp"
+							android:layout_marginTop="155dp"
+							android:layout_width="180dp"
+							android:layout_height="5dp" />
+
+						<View   android:id="@+id/ellipse_2"
+							android:background="@drawable/ellipse_2_shape"
+							 android:layout_marginStart="132dp"
+							android:layout_marginTop="217dp"
+							android:layout_width="95dp"
+							android:layout_height="95dp" />
+
+						<TextView android:id="@+id/coinbank_wallet_ek6"
+							android:fontFamily="Bw Helder DEMO"
+							android:textStyle="bold"
+							android:textSize="24sp"
+							android:textColor="@color/coinbank_wallet_color"
+							android:layout_marginLeft="84dp"
+							android:layout_marginTop="320dp"
+							android:layout_width="222dp"
+							android:layout_height="46dp"
+							android:text="@string/coinbank_wallet_ek6_string"
+							 />
+
+						<TextView android:id="@+id/version_1_0__beta_"
+							android:fontFamily="Bw Helder DEMO"
+							android:textSize="20sp"
+							android:textColor="@color/_sign_up_color"
+							android:layout_marginLeft="96dp"
+							android:layout_marginTop="360dp"
+							android:layout_width="193dp"
+							android:layout_height="38dp"
+							android:text="@string/version_1_0__beta__string"
+							 />
+
+						<TextView android:id="@+id/__2022__starter_pack_three"
+							android:fontFamily="Bw Helder DEMO"
+							android:textStyle="bold"
+							android:textSize="20sp"
+							android:textColor="@color/_sign_up_color"
+							android:layout_marginLeft="48dp"
+							android:layout_marginTop="395dp"
+							android:layout_width="290dp"
+							android:layout_height="38dp"
+							android:text="@string/__2022__starter_pack_three_string"
+							 />
+
+
+						<RelativeLayout android:id="@+id/group_16"
+							android:layout_marginTop="119dp"
+							android:layout_marginStart="77dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<TextView android:id="@+id/about_ek1"
+								android:fontFamily="Bw Helder DEMO"
+								android:textStyle="bold"
+								android:textSize="24sp"
+								android:textColor="@color/_sign_up_color"
+								android:layout_marginLeft="134dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="102dp"
+								android:layout_height="46dp"
+								android:text="@string/about_ek1_string"
+								 />
+
+							<TextView android:id="@+id/_settings_ek3"
+								android:fontFamily="Bw Helder DEMO"
+								android:textStyle="bold"
+								android:textSize="24sp"
+								android:textColor="@color/_sign_up_color"
+								android:layout_marginLeft="0dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="130dp"
+								android:layout_height="46dp"
+								android:text="@string/_settings_ek3_string"
+								 />
+
+
+							<RelativeLayout android:id="@+id/arrow_down_bold_2"
+								android:layout_marginTop="3dp"
+								android:layout_marginStart="104dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<ImageView android:id="@+id/vector_ek31"
+									android:src="@drawable/vector_ek31"
+									android:contentDescription="vector_ek31"
+									 android:layout_marginStart="2.18dp"
+									android:layout_marginTop="8.13dp"
+									android:layout_width="21.61dp"
+									android:layout_height="12.44dp" />
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+					<View   android:id="@+id/ellipse_1_ek6"
+						android:background="@drawable/ellipse_1_ek6_shape"
+						 android:layout_marginStart="21dp"
+						android:layout_marginTop="15dp"
+						android:layout_width="46dp"
+						android:layout_height="46dp" />
+
+					<TextView android:id="@+id/coinbank_wallet_ek7"
+						android:fontFamily="Bw Helder DEMO"
+						android:textStyle="bold"
+						android:textSize="16sp"
+						android:textColor="@color/coinbank_wallet_color"
+						android:layout_marginLeft="79dp"
+						android:layout_marginTop="29dp"
+						android:layout_width="150dp"
+						android:layout_height="30dp"
+						android:text="@string/coinbank_wallet_ek7_string"
+						 />
+
+					<ImageView android:id="@+id/ellipse_3_ek5"
+						android:src="@drawable/ellipse_3_ek5"
+						android:contentDescription="ellipse_3_ek5"
+						 android:layout_marginStart="262dp"
+						android:layout_marginTop="569dp"
+						android:layout_width="41dp"
+						android:layout_height="42dp" />
+
+					<ImageView android:id="@+id/vector_ek32"
+						android:src="@drawable/vector_ek32"
+						android:contentDescription="vector_ek32"
+						 android:layout_marginStart="275dp"
+						android:layout_marginTop="581dp"
+						android:layout_width="16dp"
+						android:layout_height="17dp" />
+
+					<ImageView android:id="@+id/_vector_ek33"
+						android:src="@drawable/_vector_ek33"
+						android:contentDescription="_vector_ek33"
+						 android:layout_marginStart="60dp"
+						android:layout_marginTop="606dp"
+						android:layout_width="17dp"
+						android:layout_height="17dp" />
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
