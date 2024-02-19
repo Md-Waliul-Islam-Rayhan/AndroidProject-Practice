@@ -1,13 +1,13 @@
  <h1>Android-Practice-Projects</h1>
   <p>This repo contains various Android projects that I created for practice purpose only. These projects are based on different topics, such as UI design, database, networking, sensors, etc. They are not intended to be complete or production-ready applications, but rather to demonstrate some concepts and skills that I learned.</p>
-  <h2>Projects</h2>
+<!--   <h2>Projects</h2>
   <ul>
     <li><a href="https://github.com/waliulrayhan/AndroidProject-Practice/tree/master/Calculator">Calculator</a>: A simple calculator app that performs basic arithmetic operations.</li>
     <li><a href="https://github.com/waliulrayhan/AndroidProject-Practice/tree/master/ContactApp">ContactApp</a>: A contact management app that allows adding, editing, deleting, and searching contacts.</li>
     <li><a href="https://github.com/waliulrayhan/AndroidProject-Practice/tree/master/NewsApp">NewsApp</a>: A news app that fetches and displays news articles from an API.</li>
     <li><a href="https://github.com/waliulrayhan/AndroidProject-Practice/tree/master/QuizApp">QuizApp</a>: A quiz app that tests the user's knowledge on various topics.</li>
     <li><a href="https://github.com/waliulrayhan/AndroidProject-Practice/tree/master/WeatherApp">WeatherApp</a>: A weather app that shows the current weather and forecast for a given location.</li>
-  </ul>
+  </ul> -->
   <h2>Installation</h2>
   <p>To run these projects, you need to have Android Studio installed on your computer. You can download it from <a href="https://developer.android.com/studio">here</a>. Then, you can clone this repo using the following command:</p>
   <pre><code>git clone https://github.com/waliulrayhan/AndroidProject-Practice.git</code></pre>
